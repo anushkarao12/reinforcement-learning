@@ -2,6 +2,8 @@
 
 This repository contains implementations of various reinforcement learning (RL) agents using Python. The focus is on building and training agents that learn optimal policies through interaction with environments using tabular methods, linear function approximation, and neural networks (PyTorch).
 
+It was a project assignment in the edX course "MITx: Machine Learning with Python: from Linear Models to Deep Learning".
+
 ## 📁 Project Structure
 
 📦 reinforcement-learning/
